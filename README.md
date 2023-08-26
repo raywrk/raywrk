@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raywrk&label=Profile%20views&color=0e75b6&style=flat" alt="raywrk" /> </p>
 
+<p align="left"> <img src="https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif" alt="gustavoruiz0" /> </p>
+
 - 🔭 Atualmente estou trabalhando [Portal Data Nexus](datanexus.online)
 
 - 🌱 Atualmente estou me aprimorando mais em **Java Spring, Angular**
